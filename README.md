@@ -64,8 +64,4 @@
   <img src="https://streak-stats.demolab.com?user=antoniopco95&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/antoniopco95/antoniopco95/output/snake.svg" alt="Snake animation" />
-
-###
