@@ -4,7 +4,7 @@ Hi 👋 My name is Antônio Oliveira
 Web Developer
 -------------
 
-I've been learning to code since the beginning of 2023 and i feel like i have developed myself alot the past months. I already studied: HTML, CSS, Javascript, React, Node and i'm really exited to learn more...
+I've been learning to code since the beginning of 2023 and i feel like i've developed myself alot the past months. I've already studied: HTML, CSS, Javascript, React, Node and i'm really exited to learn more...
 
 * 🌍  I'm based in Belo Horizonte - MG
 * ✉️  You can contact me at [antoniopco95@gmail.com](mailto:antoniopco95@gmail.com)
