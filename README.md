@@ -9,7 +9,7 @@ Venho programando desde o início de 2023 e sinto que me desenvolvi muito nos ú
 * 🌍  Moro em  Belo Horizonte - MG
 * ✉️  Você pode entrar em contato comigo em [antoniopco95@gmail.com](mailto:antoniopco95@gmail.com)
 * 🧠  Estou estudando TypeScript
-* ⚡  Sou um troll no League of Legends, dizem as más línguas..
+* ⚡  Sou um troll no League of Legends, eles dizem..
 
 <a href="https://www.github.com/antoniopco95" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/antoniopco95?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
