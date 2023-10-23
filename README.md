@@ -1,15 +1,15 @@
-Hi 👋 My name is Antônio Oliveira
+Prazer, 👋 Meu nome é Antônio Oliveira
 =================================
 
-Web Developer
+Desenvolvedor de Software Full Stack
 -------------
 
-I've been learning to code since the beginning of 2023 and i feel like i've developed myself alot the past months. I've already studied: HTML, CSS, Javascript, React, Node and i'm really exited to learn more...
+Venho programando desde o início de 2023 e sinto que me desenvolvi muito nos últimos meses. Já estudei: HTML, CSS, Javascript, React, Node, PostgreSQL e estou muito entusiasmado para aprender mais...
 
-* 🌍  I'm based in Belo Horizonte - MG
-* ✉️  You can contact me at [antoniopco95@gmail.com](mailto:antoniopco95@gmail.com)
-* 🧠  I'm learning React and PostgreSQL
-* ⚡  I'm a troll support in League of Legends they say...
+* 🌍  Moro em  Belo Horizonte - MG
+* ✉️  Você pode entrar em contato comigo em[antoniopco95@gmail.com](mailto:antoniopco95@gmail.com)
+* 🧠  Estou estudando TypeScript
+* ⚡  Sou um troll no League of Legends, dizem as más línguas..
 
 <a href="https://www.github.com/antoniopco95" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/antoniopco95?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
