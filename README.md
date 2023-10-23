@@ -7,7 +7,7 @@ Desenvolvedor de Software Full Stack
 Venho programando desde o início de 2023 e sinto que me desenvolvi muito nos últimos meses. Já estudei: HTML, CSS, Javascript, React, Node, PostgreSQL e estou muito entusiasmado para aprender mais...
 
 * 🌍  Moro em  Belo Horizonte - MG
-* ✉️  Você pode entrar em contato comigo em[antoniopco95@gmail.com](mailto:antoniopco95@gmail.com)
+* ✉️  Você pode entrar em contato comigo em [antoniopco95@gmail.com](mailto:antoniopco95@gmail.com)
 * 🧠  Estou estudando TypeScript
 * ⚡  Sou um troll no League of Legends, dizem as más línguas..
 
