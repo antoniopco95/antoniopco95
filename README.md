@@ -1,4 +1,4 @@
-Prazer, 👋 Meu nome é Antônio Oliveira
+Prazer, 👋meu nome é Antônio Oliveira
 =================================
 
 Desenvolvedor de Software Full Stack
